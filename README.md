@@ -16,7 +16,8 @@ easy to understand all codes every One Can Study These File Codes
  ## Whats included 
  every thing from ui Even till last screens of feedback
 <ul>
- <li> 7 intro Pages </li>
+ <li> 4 intro Pages </li>
+ <li> Splash Screen </li>
  <li> Login & SignUp Pages With data collection </li>
  <li> For Begginer & intermediate </li>
  <li> 7 dail weekly remainder </li>
