@@ -28,7 +28,7 @@ easy to understand all codes every One Can Study These File Codes
  <li> Workout History </li>
  <li> Notifications & Shareable features </li>
  <li> add own plans </li>
- <li> ### and more </li>
+ <li> <b> and more </b> </li>
  
  </ul>
  
